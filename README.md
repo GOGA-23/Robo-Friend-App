@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # You-need:
 React js
+CSS
 
 # Installation
 To install and run this project - install dependencies using npm and then start your server:
