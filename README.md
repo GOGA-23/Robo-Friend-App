@@ -6,8 +6,8 @@ Robo friend app using react js
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # You-need:
-React js
-CSS
+React js\
+CSS\
 
 # Installation
 To install and run this project - install dependencies using npm and then start your server:
